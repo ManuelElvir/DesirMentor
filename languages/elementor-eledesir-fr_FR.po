@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: oceanWP-MN\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-27 15:22+0000\n"
+"PO-Revision-Date: 2022-07-31 07:56+0000\n"
+"Last-Translator: Admin\n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-5.8.4\n"
+"X-Domain: oceanwp-mn"
+
+#. URI of the theme
+#. Author URI of the plugin
+msgid "http://manuel-njiakim.com/"
+msgstr "http://manuel-njiakim.com/"
+
+#. Author of the plugin
+msgid "Manuel Njiakim"
+msgstr "Manuel Njiakim"
+
+#. Name of the theme
+msgid "Elementor-Eledesir"
+msgstr "Elementor-Eledesir"
+
+#. Description of the theme
+msgid ""
+"Elementor-Eledesir is an awesome Elementor addon, created by manuel-njiakim."
+"com"
+msgstr ""
+"Elementor-Eledesir est un addon Elementor génial, créé par manuel-njiakim."
+"com."
+
+#: class-userlist:66
+msgid "User list"
+msgstr "Liste des utilisateurs"
+
+#: class-userlist:129
+msgid "Content"
+msgstr "Contenu"
+
+#: class-userlist:142
+msgid "User Role"
+msgstr "Rôle d'utilisateur"
+
+#: class-userlist:152
+msgid "Field Name"
+msgstr "Champs Nom"
+
+#: class-userlist:161
+msgid "Is Name Field managed by ACF?"
+msgstr "Le champ de nom est-il géré par ACF ?"
+
+#: class-userlist:163; class-userlist:184
+msgid "Yes"
+msgstr "Oui"
+
+#: class-userlist:164; class-userlist:185
+msgid "No"
+msgstr "Aucun"
+
+#: class-userlist:173
+msgid "Field Title"
+msgstr "Champs Titre"
+
+#: class-userlist:182
+msgid "Is Title Field managed by ACF?"
+msgstr "Le champ de titre est-il géré par ACF ?"
+
+#: class-userlist:194
+msgid "Field Address"
+msgstr "Champs Adresse"
+
+#: class-userlist:203
+msgid "Is Address Field managed by ACF?"
+msgstr "Le champ d'adresse est-il géré par ACF ?"
+
+#: class-userlist:203
+msgid "Is Address Field managed by ACF"
+msgstr "Le champ d'adresse est-il géré par ACF ?"
+
+#: class-userlist:215
+msgid "Title Tag 1"
+msgstr "Titre Tag 1"
+
+#: class-userlist:217
+msgid "French"
+msgstr "Français"
+
+#: class-userlist:224
+msgid "Field Tag 1"
+msgstr "Champs Tag 1"
+
+#: class-userlist:233
+msgid "Title Tag 2"
+msgstr "Titre Tag 2"
+
+#: class-userlist:235
+msgid "English"
+msgstr "Anglais"
+
+#: class-userlist:242
+msgid "Field Tag 2"
+msgstr "Champs Tag 2"
+
+#: class-userlist:251
+msgid "Title Tag 3"
+msgstr "Titre Tag 3"
+
+#: class-userlist:253
+msgid "Activity Sector"
+msgstr "Secteur d'activité"
+
+#: class-userlist:260
+msgid "Field Tag 3"
+msgstr "Champs Tag 3"
+
+#: class-userlist.php:455
+msgid "View Profile"
+msgstr "Voir le Profil"
+
+#: dynamic
+msgid "Commerce de détail de mode et habillement"
+msgstr "Fashion and clothing retail"
+
+#: dynamic
+msgid "Services financiers"
+msgstr "Services financiers"
+
+#: dynamic
+msgid "Télécommunications"
+msgstr "Télécommunications"
+
+#: dynamic
+msgid "Services bancaires"
+msgstr "Banking Services"
+
+#: dynamic
+msgid "Hôpitaux et services de santé"
+msgstr "Hôpitaux et services de santé"
+
+#: dynamic
+msgid "Services et conseil informatiques"
+msgstr "Services et conseil informatiques"
+
+#: dynamic
+msgid "Développement de logiciels"
+msgstr "Développement de logiciels"
+
+#: dynamic
+msgid "Commerce de détail"
+msgstr "Commerce de détail"
+
+#: dynamic
+msgid "Gestion de portefeuilles"
+msgstr "Gestion de portefeuilles"
+
+#: dynamic
+msgid "Recrutement"
+msgstr "Recrutement"
+
+#: dynamic
+msgid "Autres"
+msgstr "Autres"
+
+#: dynamic
+msgid "Aucun"
+msgstr "Aucun"
+
+#: dynamic
+msgid "Débutant"
+msgstr "Débutant"
+
+#: dynamic
+msgid "Intermédiaire"
+msgstr "Intermédiaire"
+
+#: dynamic
+msgid "Avancé ou langue maternelle"
+msgstr "Avancé ou langue maternelle"
+
+#: dynamic
+msgid "Fashion and clothing retail"
+msgstr "Commerce de détail de mode et habillement"
+
+#: dynamic
+msgid "Financial Services"
+msgstr "Services financiers"
+
+#: dynamic
+msgid "Telecommunications"
+msgstr "Télécommunications"
+
+#: dynamic
+msgid "Banking Services"
+msgstr "Services bancaires"
+
+#: dynamic
+msgid "Hospitals and health services"
+msgstr "Hôpitaux et services de santé"
+
+#: dynamic
+msgid "IT services and consulting"
+msgstr "Services et conseil informatiques"
+
+#: dynamic
+msgid "Software development"
+msgstr "Développement de logiciels"
+
+#: dynamic
+msgid "Retail"
+msgstr "Commerce de détail"
+
+#: dynamic
+msgid "Portfolio Management"
+msgstr "Gestion de portefeuilles"
+
+#: dynamic
+msgid "Recruiting"
+msgstr "Recrutement"
+
+#: dynamic
+msgid "Other"
+msgstr "Autres"
+
+#: dynamic
+msgid "Beginner"
+msgstr "Débutant"
+
+#: dynamic
+msgid "Intermediate"
+msgstr "Intermédiaire"
+
+#: dynamic
+msgid "Advanced or mother tongue"
+msgstr "Avancé ou langue maternelle"
+
+#: dynamic
+msgid "Secteur d'activité"
+msgstr "Secteur d'activité"
+
+#: dynamic
+msgid "Anglais"
+msgstr "Anglais"
+
+#: dynamic
+msgid "Français"
+msgstr "Français"
+
+
+#: dynamic
+msgid "Advanced Search Form"
+msgstr "Recherche Avancée"
+
+#: dynamic
+msgid "Content"
+msgstr "Contenu"
+
+#: dynamic
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: dynamic
+msgid "Fast search"
+msgstr "Recherche Rapide"
+
+#: dynamic
+msgid "Title"
+msgstr "Titre"
+
+#: dynamic
+msgid "Your title here."
+msgstr "Votre titre ici."
+
+#: dynamic
+msgid "See button"
+msgstr "Bouton voir"
+
+#: dynamic
+msgid "Title Select 1"
+msgstr "Titre select 1"
+
+#: dynamic
+msgid "Key Select 1"
+msgstr "Clé Select 1"
+
+#: dynamic
+msgid "Values Select 1"
+msgstr "Valeur Select 1"
+
+#: dynamic
+msgid "separate label and value with : and each item with |"
+msgstr "Utiliser : pour séparer le label du titre et | pour chaque éléments"
+
+#: dynamic
+msgid "Title Select 2"
+msgstr "Titre select 2"
+
+#: dynamic
+msgid "Key Select 2"
+msgstr "Clé Select 2"
+
+#: dynamic
+msgid "Values Select 2"
+msgstr "Valeur Select 2"
+
+#: dynamic
+msgid "Title Select 3"
+msgstr "Titre select 3"
+
+#: dynamic
+msgid "Key Select 3"
+msgstr "Clé Select 3"
+
+#: dynamic
+msgid "Values Select 3"
+msgstr "Valeur Select 3"
+
+#: dynamic
+msgid "Title Select 4"
+msgstr "Titre select 4"
+
+#: dynamic
+msgid "Key Select 4"
+msgstr "Clé Select 4"
+
+#: dynamic
+msgid "Values Select 4"
+msgstr "Valeur Select 4"
+
+#: dynamic
+msgid "All %s"
+msgstr "Tout %s"
